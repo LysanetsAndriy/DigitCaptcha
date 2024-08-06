@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1684244303 source:e:\1 курс\2 семестр\Прога\Практика\digit_captcha\main.cpp
+	<Windows.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	"MatrixOperations.h"
+	"LysaNets.hpp"
+	"NeuralNetwork.hpp"
+	"NNClassifier.hpp"
+
+1684960060 e:\1 курс\ag_mining\projects\matrixoperations\matrixoperations.h
+	<cmath>
+	<fstream>
+
+1684961195 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\lysanets.hpp
+	"MatrixOperations.h"
+	"NeuralNetwork.hpp"
+
+1685454957 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\neuralnetwork.hpp
+	<iostream>
+	"Sigmoid.hpp"
+	"Regularization.hpp"
+	"MatrixOperations.h"
+
+1681564641 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\sigmoid.hpp
+	"MatrixOperations.h"
+
+1681502356 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\nnclassifier.hpp
+	<vector>
+	"NeuralNetwork.hpp"
+
+1685455783 e:\1 курс\2 семестр\Прога\Практика\static_libraies\lysanets\regularization.hpp
+	"MatrixOperations.h"
+
